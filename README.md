@@ -19,6 +19,9 @@ Soy un desarrollador apasionado por crear soluciones que optimicen el trabajo di
 
 ---
 
+> Puedes ver mis logros oficiales en mi [Perfil de Microsoft Learn](https://learn.microsoft.com/es-es/users/davidcrespoalzate-6685/achievements). 
+
+
 ### 🛠️ Mi Stack Tecnológico
 
 **Frontend & Frameworks:**
@@ -27,6 +30,8 @@ Soy un desarrollador apasionado por crear soluciones que optimicen el trabajo di
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 **Backend & Automatización:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
