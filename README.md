@@ -62,5 +62,4 @@ Soy un desarrollador apasionado por crear soluciones que optimicen el trabajo di
 ---
 
 ### 📫 ¿Hablamos?
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario-aqui) 
-- 📧 [Contactame vía Email](mailto:tu-correo@ejemplo.com)
+- 📧 [Contactame vía Email](dcrespoalzate@gmail.com)
