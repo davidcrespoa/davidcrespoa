@@ -64,8 +64,8 @@ Soy un desarrollador apasionado por crear soluciones que optimicen el trabajo di
 ---
 
 ### 📊 Mis Estadísticas
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=davidcrespoa&show_icons=true&theme=radical" alt="Estadísticas de David" />
+<p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcrespoa&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
 
