@@ -1,28 +1,24 @@
 # ¡Hola! Soy David Crespo 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/davidcrespoa/davidcrespoa/main/img.png" alt="Logo de David Crespo" width="200"/>
+  <img src="https://raw.githubusercontent.com/davidcrespoa/davidcrespoa/main/img.png" alt="Logo de David Crespo" width="220"/>
 </p>
 
-### 🚀 Tecnólogo en Análisis y Desarrollo de Software (SENA) | Especialista en Automatización
+### 🚀 Tecnólogo en Análisis y Desarrollo de Software (SENA)
+**En etapa práctica** | Especialista en Frontend con React y Automatización de Procesos.
 
-Actualmente finalizando mi etapa práctica. Combino mi base sólida de desarrollo web moderna con una fuerte capacidad de automatización de procesos empresariales.
+Soy un desarrollador apasionado por crear soluciones que optimicen el trabajo diario. Combino el poder de frameworks modernos como **Next.js** con la versatilidad de **Google Apps Script** para resolver problemas reales de negocio.
 
 ---
 
-### 🎓 Mi Formación
-- 🎓 **Tecnología en Análisis y Desarrollo de Software** - SENA (En etapa práctica).
+### 🎓 Formación y Certificaciones
+- 🎓 **Tecnología en Análisis y Desarrollo de Software** - SENA (2024 - Presente).
 - 📊 **Ciencias e Ingeniería de Datos** - @Medellín (Arroba Medellín).
+- 🛠️ **Especialista en Automatización** - Experiencia en Google Apps Script durante etapa práctica.
 
 ---
 
 ### 🛠️ Mi Stack Tecnológico
-
-**Automatización y Backend:**
-![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
 **Frontend & Frameworks:**
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white) 
@@ -30,21 +26,31 @@ Actualmente finalizando mi etapa práctica. Combino mi base sólida de desarroll
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
+**Backend & Automatización:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+
 ---
 
-### 🌟 Proyectos Destacados (Automatización con Apps Script)
+### 🌟 Proyectos Destacados
 
-Aquí muestro soluciones reales que he implementado usando Google Apps Script para optimizar flujos de trabajo:
+1.  ### 💬 [ChatPro](https://github.com/davidcrespoa/ChatPro)
+    * **Descripción:** Aplicación de mensajería moderna enfocada en una interfaz fluida y experiencia de usuario optimizada.
+    * **Tech:** React, Tailwind CSS, JavaScript.
 
-1.  ### 🤖 **[Nombre de tu Mejor Proyecto GAS]** - *[Ej: Sistema de Notificaciones Automáticas]*
-    * **¿Qué hace?**: Automatiza [ej: el envío de correos] basándose en [ej: cambios en una Google Sheet].
-    * **Impacto**: Reduce [ej: en un 50% el tiempo manual] de [ej: el equipo de ventas].
-    * **Repo:** [🔗 Ver Código](TU_URL_DEL_REPOSITORIO_GAS_AQUÍ)
+2.  ### 💼 [Sistema de Facturación](https://github.com/davidcrespoa/Facturacion-Sena)
+    * **Descripción:** Aplicación robusta desarrollada para la gestión de facturas, optimizando el control administrativo.
+    * **Tech:** React, JavaScript.
 
-2.  ### 📊 **[Nombre de tu Segundo Proyecto GAS]** - *[Ej: Generador de Reportes PDF]*
-    * **¿Qué hace?**: Toma datos de [ej: un Google Form] y genera automáticamente un reporte profesional en [ej: Google Docs/PDF].
-    * **Impacto**: Mejora la [ej: consistencia y rapidez de la información] para [ej: la gerencia].
-    * **Repo:** [🔗 Ver Código](TU_URL_DE_TU_OTRO_REPOSITORIO_GAS_AQUÍ)
+3.  ### 📊 [Admin Dashboard](https://github.com/davidcrespoa/Admin-Dashboard)
+    * **Descripción:** Panel de administración moderno con visualización de datos y componentes interactivos.
+    * **Tech:** Next.js, TypeScript, Tailwind CSS.
+
+4.  ### 🤖 [Proyectos de Automatización (Apps Script)](https://github.com/davidcrespoa?tab=repositories&q=script)
+    * **Descripción:** Scripts desarrollados durante mi etapa práctica para automatizar flujos en Google Workspace.
+    * **Impacto:** Reducción de tiempos manuales mediante lógica personalizada.
 
 ---
 
@@ -56,5 +62,5 @@ Aquí muestro soluciones reales que he implementado usando Google Apps Script pa
 ---
 
 ### 📫 ¿Hablamos?
-- 💼 [LinkedIn](TU_URL_DE_LINKEDIN_AQUÍ)
-- 📧 [Tu Correo](mailto:tu-correo@ejemplo.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario-aqui) 
+- 📧 [Contactame vía Email](mailto:tu-correo@ejemplo.com)
