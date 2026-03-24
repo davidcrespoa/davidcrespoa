@@ -1,7 +1,7 @@
 # ¡Hola! Soy David Crespo 👋
 
 <p align="center">
-  <img src="https://play-lh.googleusercontent.com/bEul5GrrHEf2e0P1jbwy1kl8mpvIhRpZoFkMFw3i8QsX1VO0A6jrTO5nWRnqT6tc1g=w600-h300-pc0xffffff-pd"/>
+  <img src="https://www.inav.es/wp-content/uploads/2021/03/Sistemas-Microinformaticos-y-redes.jpg"/>
 </p>
 
 ### 🚀 Tecnólogo en Análisis y Desarrollo de Software (SENA)
