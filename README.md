@@ -52,6 +52,13 @@ Soy un desarrollador apasionado por crear soluciones que optimicen el trabajo di
     * **Descripción:** Scripts desarrollados durante mi etapa práctica para automatizar flujos en Google Workspace.
     * **Impacto:** Reducción de tiempos manuales mediante lógica personalizada.
 
+5. ### 📝 [Tablero Digital Post-it](https://github.com/davidcrespoa/Tablero_Digital_Post-it)
+    * **Descripción:** Aplicación interactiva para gestión de notas y tareas visuales.
+    * **Tech:** HTML, CSS, JavaScript.
+  
+6. ### 🔗 [Crud_guillo](https://github.com/davidcrespoa/Crud_guillo)
+    * **Descripción:** Aplicación funcional que demuestra la **conexión completa de Frontend con Backend**.
+    * **Tech:** JavaScript, Node.js.
 ---
 
 ### 📊 Mis Estadísticas
