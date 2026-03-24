@@ -13,6 +13,7 @@ Soy un desarrollador apasionado por crear soluciones que optimicen el trabajo di
 
 ### 🎓 Formación y Certificaciones
 - 🎓 **Tecnología en Análisis y Desarrollo de Software** - SENA (2024 - Presente).
+- 🎨 **Técnica en Diseño Gráfico** - (Institución Universitaria Pascual Bravo).
 - 📊 **Ciencias e Ingeniería de Datos** - @Medellín (Arroba Medellín).
 - 🛠️ **Especialista en Automatización** - Experiencia en Google Apps Script durante etapa práctica.
 
@@ -22,6 +23,7 @@ Soy un desarrollador apasionado por crear soluciones que optimicen el trabajo di
 
 **Frontend & Frameworks:**
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
