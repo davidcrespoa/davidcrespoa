@@ -61,6 +61,10 @@ Soy un desarrollador apasionado por crear soluciones que optimicen el trabajo di
 6. ### 🔗 [Crud_guillo](https://github.com/davidcrespoa/Crud_guillo)
     * **Descripción:** Aplicación funcional que demuestra la **conexión completa de Frontend con Backend**.
     * **Tech:** JavaScript, Node.js.
+  
+7. ### 🧮 [Calculadora con Archivos](https://github.com/davidcrespoa/Calculadoraconarchivos-)
+    * **Descripción:** Aplicación de cálculo con **persistencia de datos en archivos locales**.
+    * **Tech:** Python
 ---
 
 ### 📊 Mis Estadísticas
