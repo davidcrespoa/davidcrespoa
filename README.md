@@ -19,6 +19,16 @@ Soy un desarrollador apasionado por crear soluciones que optimicen el trabajo di
 
 ---
 
+### 📋 Análisis y Documentación de Software
+No solo construyo software, también diseño la estrategia detrás de él. Tengo experiencia sólida en:
+- 📝 **Levantamiento de Requerimientos:** Definición de requerimientos Funcionales y No Funcionales.
+- 🏢 **Lógica de Negocio:** Documentación de reglas de negocio para asegurar el cumplimiento de objetivos.
+- 📐 **Modelado de Procesos:** Creación de diagramas de flujo y arquitectura de sistemas.
+- 📖 **Documentación Técnica:** Manuales de usuario y guías técnicas para desarrolladores.
+* 🤖 **Lógica de Programación:** Resolución de algoritmos complejos mediante **Pseudocódigo** estructurado.
+---
+
+
 > Puedes ver mis logros oficiales en mi [Perfil de Microsoft Learn](https://learn.microsoft.com/es-es/users/davidcrespoalzate-6685/achievements). 
 
 
