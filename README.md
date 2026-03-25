@@ -16,6 +16,7 @@ Soy un desarrollador apasionado por crear soluciones que optimicen el trabajo di
 - 🎨 **Técnica en Diseño Gráfico** - (Institución Universitaria Pascual Bravo).
 - 📊 **Ciencias e Ingeniería de Datos** - @Medellín (Arroba Medellín).
 - 🛠️ **Especialista en Automatización** - Experiencia en Google Apps Script durante etapa práctica.
+- > Puedes ver mis logros oficiales en mi [Perfil de Microsoft Learn](https://learn.microsoft.com/es-es/users/davidcrespoalzate-6685/achievements).
 
 ---
 
@@ -27,10 +28,6 @@ No solo construyo software, también diseño la estrategia detrás de él. Tengo
 - 📖 **Documentación Técnica:** Manuales de usuario y guías técnicas para desarrolladores.
 * 🤖 **Lógica de Programación:** Resolución de algoritmos complejos mediante **Pseudocódigo** estructurado.
 ---
-
-
-> Puedes ver mis logros oficiales en mi [Perfil de Microsoft Learn](https://learn.microsoft.com/es-es/users/davidcrespoalzate-6685/achievements). 
-
 
 ### 🛠️ Mi Stack Tecnológico
 
