@@ -14,7 +14,7 @@ Soy un desarrollador apasionado por crear soluciones que optimicen el trabajo di
 ### 🎓 Formación y Certificaciones
 - 🎓 **Tecnología en Análisis y Desarrollo de Software** - SENA (2024 - Presente).
 - 🎨 **Técnica en Diseño Gráfico** - (Institución Universitaria Pascual Bravo).
-- 📊 **Ciencias e Ingeniería de Datos** - @Medellín (Arroba Medellín). Ver certificado (https://drive.google.com/file/d/1haOwSf48Bu_DMJ00wX0Sr0q2SArshQTS/view?usp=sharing)
+- 📊 **Ciencias e Ingeniería de Datos** - @Medellín (Arroba Medellín). Ver certificado https://drive.google.com/file/d/1haOwSf48Bu_DMJ00wX0Sr0q2SArshQTS/view?usp=sharing
 - 🛠️ **Especialista en Automatización** - Experiencia en Google Apps Script durante etapa práctica.
 - > Puedes ver mis logros oficiales en mi [Perfil de Microsoft Learn](https://learn.microsoft.com/es-es/users/davidcrespoalzate-6685/achievements).
 
