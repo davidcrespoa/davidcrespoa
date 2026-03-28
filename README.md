@@ -88,4 +88,6 @@ No solo construyo software, también diseño la estrategia detrás de él. Tengo
 ---
 
 ### 📫 ¿Hablamos?
-- 📧 [Contactame vía Email](dcrespoalzate@gmail.com)
+<a href="mailto:dcrespoalzate@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
