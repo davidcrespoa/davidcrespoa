@@ -49,32 +49,35 @@ No solo construyo software, también diseño la estrategia detrás de él. Tengo
 ---
 
 ### 🌟 Proyectos Destacados
+1. ### ⚽ [Análisis_Apuestas_Deportivas](https://github.com/davidcrespoa/Análisis_Apuestas_Deportivas)
+    * **Descripción:** Terminal de estrategia deportiva orientada al arbitraje financiero (Surebets). Incluye sincronización de cuotas en tiempo real, gestión de capital y un dashboard automatizado en Modo Oscuro.
+    * **Tech:** Google Apps Script, JavaScript, API Integration.
 
-1.  ### 💬 [ChatPro](https://github.com/davidcrespoa/ChatPro)
+2.  ### 💬 [ChatPro](https://github.com/davidcrespoa/ChatPro)
     * **Descripción:** Aplicación de mensajería moderna enfocada en una interfaz fluida y experiencia de usuario optimizada.
     * **Tech:** React, Tailwind CSS, JavaScript.
 
-2.  ### 💼 [Sistema de Facturación](https://github.com/davidcrespoa/Facturacion-Sena)
+3.  ### 💼 [Sistema de Facturación](https://github.com/davidcrespoa/Facturacion-Sena)
     * **Descripción:** Aplicación robusta desarrollada para la gestión de facturas, optimizando el control administrativo.
     * **Tech:** React, JavaScript.
 
-3.  ### 📊 [Admin Dashboard](https://github.com/davidcrespoa/Admin-Dashboard)
+4.  ### 📊 [Admin Dashboard](https://github.com/davidcrespoa/Admin-Dashboard)
     * **Descripción:** Panel de administración moderno con visualización de datos y componentes interactivos.
     * **Tech:** Next.js, TypeScript, Tailwind CSS.
 
-4.  ### 🤖 [Proyectos de Automatización (Apps Script)](https://github.com/davidcrespoa?tab=repositories&q=script)
+5.  ### 🤖 [Proyectos de Automatización (Apps Script)](https://github.com/davidcrespoa?tab=repositories&q=script)
     * **Descripción:** Scripts desarrollados durante mi etapa práctica para automatizar flujos en Google Workspace.
     * **Impacto:** Reducción de tiempos manuales mediante lógica personalizada.
 
-5. ### 📝 [Tablero Digital Post-it](https://github.com/davidcrespoa/Tablero_Digital_Post-it)
+6. ### 📝 [Tablero Digital Post-it](https://github.com/davidcrespoa/Tablero_Digital_Post-it)
     * **Descripción:** Aplicación interactiva para gestión de notas y tareas visuales.
     * **Tech:** HTML, CSS, JavaScript.
   
-6. ### 🔗 [Crud_guillo](https://github.com/davidcrespoa/Crud_guillo)
+7. ### 🔗 [Crud_guillo](https://github.com/davidcrespoa/Crud_guillo)
     * **Descripción:** Aplicación funcional que demuestra la **conexión completa de Frontend con Backend**.
     * **Tech:** JavaScript, Node.js.
   
-7. ### 🧮 [Calculadora con Archivos](https://github.com/davidcrespoa/Calculadoraconarchivos-)
+8. ### 🧮 [Calculadora con Archivos](https://github.com/davidcrespoa/Calculadoraconarchivos-)
     * **Descripción:** Aplicación de cálculo con **persistencia de datos en archivos locales**.
     * **Tech:** Python
 ---
