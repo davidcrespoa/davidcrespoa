@@ -49,7 +49,7 @@ No solo construyo software, también diseño la estrategia detrás de él. Tengo
 ---
 
 ### 🌟 Proyectos Destacados
-5. ### ⚽ [Análisis_Apuestas_Deportivas](https://github.com/davidcrespoa/Analisis_Apuestas_Deportivas)
+1. ### ⚽ [Análisis_Apuestas_Deportivas](https://github.com/davidcrespoa/Analisis_Apuestas_Deportivas)
     * **Descripción:** Terminal de estrategia deportiva orientada al arbitraje financiero (Surebets). Incluye sincronización de cuotas en tiempo real, gestión de capital y un dashboard automatizado en Modo Oscuro.
     * **Tech:** Google Apps Script, JavaScript, API Integration.
 
